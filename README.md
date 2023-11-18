@@ -9,6 +9,5 @@ Currently Exploring
 [![My Skills](https://skillicons.dev/icons?i=kotlin,bash,git,linux&perline=4)](https://skillicons.dev)
 ### 🛠 My Tools :
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,&perline=12)](https://skillicons.dev)
-### Github Stats
-![](https://komarev.com/ghpvc/?username=imam1912&color=orange)
+
 
