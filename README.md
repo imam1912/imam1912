@@ -2,8 +2,8 @@
 # Imam Hossain Mihir
 
 ### About Me
-> I am From My Home
- 	Currently Exploring
+> I am From My Home <br>
+Currently Exploring
 	
 ### 🛠 My Skills :
 [![My Skills](https://skillicons.dev/icons?i=kotlin,bash,git,linux&perline=4)](https://skillicons.dev)
