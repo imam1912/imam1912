@@ -1,9 +1,9 @@
-<p align="center"><img align="center" width="100" src="https://skillicons.dev/icons?i=bash"/></p>
-<center><font size="6">Imam Hossain Mihir </font></center>
+<p align="center"><img align="center" width="60" src="https://skillicons.dev/icons?i=bash"/></p>
+# Imam Hossain Mihir
 
 ### About Me
 > I am From My Home
-	Currently Exploring
+ 	Currently Exploring
 	
 ### 🛠 My Skills :
 [![My Skills](https://skillicons.dev/icons?i=kotlin,bash,git,linux&perline=4)](https://skillicons.dev)
