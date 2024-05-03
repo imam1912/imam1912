@@ -2,9 +2,7 @@
 
 ### Imam Hossain Mihir
 ### About Me
-> I am From My Home <br>
-Currently Leaning <br>
-How To Make A Hello World App
+>Passionate coder.Love android development.Currently learning
 	
 ### 🛠 My Skills :
 [![My Skills](https://skillicons.dev/icons?i=kotlin,python,flask,bash,linux)](https://skillicons.dev)
