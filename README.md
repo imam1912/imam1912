@@ -1,8 +1,8 @@
 <p align="center"><img align="center" width="60" src="https://skillicons.dev/icons?i=kotlin"/></p>
 
-### Imam Hossain Mihir
+## Imam Hossain Mihir
 ### About Me
->Passionate coder.Love android development.Currently learning
+>Passionate Android Developer :)
 	
 ### 🛠 My Skills :
 [![My Skills](https://skillicons.dev/icons?i=kotlin,python,flask,bash,linux)](https://skillicons.dev)
